@@ -1,4 +1,4 @@
-# Youtube Backend
+# ECOTECH RECLAIM
 
 This project was made for Smart India Hackathon 2023, this is the full frontend of the website that we designed for ECOTECH RECLAIM.
 
